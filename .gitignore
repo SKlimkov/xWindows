@@ -57,7 +57,7 @@ Girls/Assets/StreamingAssets/SessionLog/*
 
 *PanicButton*
 
-*/.vs
+*.vs*
 
 obj
 Temp
